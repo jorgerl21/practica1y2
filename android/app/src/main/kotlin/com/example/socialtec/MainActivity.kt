@@ -1,4 +1,4 @@
-package com.example.socialtec
+package com.example.tecbook
 
 import io.flutter.embedding.android.FlutterActivity
 
